@@ -11,6 +11,7 @@ Dokumentation zur Nutzung des Web Service des Geschäftsverwaltungssystems des K
 Bitte senden Sie Fragen und Rückmeldungen zu den Schnittstellen per E-Mail an [info@open.zh.ch](mailto:info@open.zh.ch) oder eröffnen Sie ein Issue. 
 
 Hier sammeln wir eingehende Fragen und Rückmeldungen, die für andere Nutzende hilfreich sein können. <br>
+<br>
 Antworten klären wir mit den Parlamentsdiensten des Kantonsrates des Kantons Zürich und mit deren Dienstleistern ab.
 
 **1. Wenn ich einen Endpoint parameterisiere ...** 
@@ -29,6 +30,7 @@ https://parlzhcdws.cmicloud.ch/parlzh2/cdws/Index/MITGLIEDER/searchdetails?q=seq
 
 ## Dank
 Wir danken den Parlamentsdiensten des Kantonsrates des Kantons Zürich sowie allen involvierten Partnern für die Bereitstellung einer offenen Schnittstelle und für die Offenheit mit unserer Unterstützung mit (potenziellen) Nutzenden im Austausch zu sein. <br>
+<br>
 Den Nutzenden danken wir für ihr Interesse, ihre Fragen und Rückmeldungen.
 
 ## Kontakt
@@ -37,5 +39,5 @@ Direktion der Justiz und des Innern <br>
 **Fach- und Koordinationsstelle Open Government Data** <br>
 Statistisches Amt <br>
 
-Telefon +41 43 259 75 00 (wochentags, 9-12 / 13-16 Uhr)
+Telefon +41 43 259 75 00 (wochentags, 9-12 / 13-16 Uhr) <br>
 [info@open.zh.ch](mailto:info@open.zh.ch)
