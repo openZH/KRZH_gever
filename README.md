@@ -1,5 +1,5 @@
-<img src="https://github.com/openZH/KRZH_gever/blob/main/kantonsrat_zh_logo.png" alt="Logo des Kantonsrates des Kantons Zürich" width="180"/>
-<img src="https://github.com/openZH/KRZH_gever/blob/main/statistisches_amt_kt_zh.png" alt="Logo des Statistischen Amtes des Kantons Zürich" width="200"/>
+<img src="https://github.com/openZH/KRZH_gever/blob/main/kantonsrat_zh_logo.png" alt="Logo des Kantonsrates des Kantons Zürich" width="200"/>
+<img src="https://github.com/openZH/KRZH_gever/blob/main/statistisches_amt_kt_zh.png" alt="Logo des Statistischen Amtes des Kantons Zürich" width="180"/>
 
 # KRZH_gever
 Dokumentation zur Nutzung des Web Service des Geschäftsverwaltungssystems des Kantonsrates des Kantons Zürich
