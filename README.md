@@ -5,7 +5,7 @@
 Dokumentation zur Nutzung des Web Service des Geschäftsverwaltungssystems des Kantonsrates des Kantons Zürich
 
 ## Metadaten und Daten
-((URL zum OGD Metadatensatz mit Ressourcen))
+[https://www.zh.ch/de/politik-staat/opendata.html?keyword=ogd#/details/709@kantonsrat-kanton-zuerich](open.zh.ch)
 
 ## Fragen und Antworten
 Bitte senden Sie Fragen und Rückmeldungen zu den Schnittstellen per E-Mail an [info@open.zh.ch](mailto:info@open.zh.ch) oder eröffnen Sie ein Issue. 
