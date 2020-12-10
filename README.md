@@ -15,18 +15,16 @@ Hier sammeln wir eingehende Fragen und Rückmeldungen, die für andere Nutzende 
 Antworten klären wir mit den Parlamentsdiensten des Kantonsrates des Kantons Zürich und mit deren Dienstleistern ab.
 
 **1. Wenn ich einen Endpoint parameterisiere ...** 
-```
-https://parlzhcdws.cmicloud.ch/parlzh2/cdws/Index/MITGLIEDER/searchdetails?q=seq>0 and dauer_end >= "2020-11-19 00:00:00" and dauer_start <= "2020-11-19 00:00:00" and gremium all KR and funktion any "Mitglied Präsidium Vizepräsidium" sortBy name/sort.ascending vorname/sort.ascending&l=de-CH
-```
-... dann möchte ich wissen:
-- Gibt es noch weitere Felder, mit denen ich die Suche eingrenzen kann?
-- Welche Werte kann ich bei `funktion` alles abfragen (sind die 3 angegebenen die einzigen)?
-- Was ist `gremium`?
-- Was ist `seq`?
-- Was bedeutet `dauer_end` und `dauer_start`?
-- Ich nehme an `l=de-CH` ist die Sprache, welche Sprachen werden unterstützt? Kann ich so französische Protokolle beziehen oder was heisst das genau?
+https://github.com/openZH/KRZH_gever/issues/3
 
 **2. Gibt es auch `getChanges()`?**
+https://github.com/openZH/KRZH_gever/issues/4
+
+**3. Inhalt der Ressource «Geschäfte des Kantonsrates des Kantons Zürich»**
+https://github.com/openZH/KRZH_gever/issues/2
+
+****
+
 
 ## Dank
 Wir danken den Parlamentsdiensten des Kantonsrates des Kantons Zürich sowie allen involvierten Partnern für die Bereitstellung einer offenen Schnittstelle und für die Offenheit mit unserer Unterstützung mit (potenziellen) Nutzenden im Austausch zu sein. <br>
